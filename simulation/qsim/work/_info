@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Praca Inzynierska/Dividedby2or3/simulation/qsim
+vDividedby2or3
+Z1 !s110 1613989388
+!i10b 1
+!s100 aRmMHEKYjX0WH@?fgA@>>1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5z@bfXM8@eh[PPeA1E3Ze1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1613989387
+8Dividedby2or3.vo
+FDividedby2or3.vo
+!i122 6
+L0 32 507
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1613989388.000000
+!s107 Dividedby2or3.vo|
+!s90 -work|work|Dividedby2or3.vo|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@dividedby2or3
+vDividedby2or3_vlg_vec_tst
+R1
+!i10b 1
+!s100 KE^0b>Lz1YUeYE<B_G8Gd0
+R2
+IVH:JcCO>z_Me:Uo1=mmbP3
+R3
+R0
+w1613989386
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 7
+L0 30 55
+R4
+r1
+!s85 0
+31
+R5
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R6
+R7
+n@dividedby2or3_vlg_vec_tst
